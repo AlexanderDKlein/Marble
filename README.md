@@ -3,8 +3,8 @@ This project was assigned to me in my Operating Systems Concepts class. Its purp
 ## How to Run:
 - Compile marble.c into a runnable program.
 - Run the executable in a linux terminal using "./(executable) x y a b", where:
-* x is number of rows.
-* y is number of columns.
-* a is the marble's velocity along the x axis (0-2).
-* b is the marble's velocity along the y axis (0-2).
+&emsp; * x is number of rows.
+&emsp; * y is number of columns.
+&emsp; * a is the marble's velocity along the x axis (0-2).
+&emsp; * b is the marble's velocity along the y axis (0-2).
 - Use control + c to terminate the program.
